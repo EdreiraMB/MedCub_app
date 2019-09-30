@@ -14,6 +14,7 @@ Este repositorio contiene:
 * <b>MedCub_demo.apk:</b> Aplicación con interactividad reducida, contine todas las funcionalidades pero no permite ingresar datos propios, sólo rellenar los campos y navegar la aplicación.
 * <b>MedCub_demo.aia:</b> Archivo de código en Kodular, contiene toda la programación y elementos que componen esta versión.
 * <b>MedCub_historialTesteo.apk:</b> En esta aplicación se plantea una vista de la función "Horarios" de forma activa, se utilizó mayorente como testeo.
+* <b>MedCub_historialTesteo.aia:</b> Archivo de código en Kodular, contiene toda la programación y elementos que componen esta versión.
 
 <b>Se incluye también:</b>
 * <i>InformeFinal.pdf</i>
